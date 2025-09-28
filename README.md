@@ -24,3 +24,5 @@ A web application that analyses your resume/CV and provides feedback, skill reco
 ### Prerequisites
 - **Python**: Ensure you have Python 3.8 or newer installed.
 - **MySQL Server**: You need a running MySQL server.
+
+![Uploading WhatsApp Image 2025-09-28 at 11.34.37_eb3cdd61.jpg…]()
